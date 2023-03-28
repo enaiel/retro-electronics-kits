@@ -52,6 +52,31 @@ Item color displayed in photos may be showing slightly different on your compute
 
 <img src="./images/aliexpress/1-Set-7-Tube-AM-Radio-Electronic-DIY-Learning-Kit-HX108-2-X-Radio-Electronic-Production.jpg_Q90.jpg_ (1).webp" width=400> <img src="./images/aliexpress/1-Set-7-Tube-AM-Radio-Electronic-DIY-Learning-Kit-HX108-2-X-Radio-Electronic-Production.jpg_Q90.jpg_ (2).webp" width=400> <img src="./images/aliexpress/1-Set-7-Tube-AM-Radio-Electronic-DIY-Learning-Kit-HX108-2-X-Radio-Electronic-Production.jpg_Q90.jpg_ (3).webp" width=400> <img src="./images/aliexpress/1-Set-7-Tube-AM-Radio-Electronic-DIY-Learning-Kit-HX108-2-X-Radio-Electronic-Production.jpg_Q90.jpg_ (4).webp" width=400> <img src="./images/aliexpress/1-Set-7-Tube-AM-Radio-Electronic-DIY-Learning-Kit-HX108-2-X-Radio-Electronic-Production.jpg_Q90.jpg_.jpg" width=400> <img src="./images/aliexpress/1-Set-7-Tube-AM-Radio-Electronic-DIY-Learning-Kit-HX108-2-X-Radio-Electronic-Production.jpg_Q90.jpg_.webp" width=400> <img src="./images/aliexpress/H0a0e6371488741ceb8336d2e97e7cf8cs.webp" width=400> <img src="./images/aliexpress/Hcbc3f31aae5049cc911e1ea8c1ad7701e.webp" width=400>
 
+## Build Video by shango066
+
+[![HX108-2 Kit Build Video - By shango066](https://i.ytimg.com/vi/XWtskDrjDgA/0.jpg)](https://www.youtube.com/watch?v=XWtskDrjDgA)
+
+## Build Videos by The Radio Mechanic
+
+[![HX108-2 Kit Build Video - By The Radio Mechanic](https://i.ytimg.com/vi/xlkX6mYQX9g/0.jpg)](https://www.youtube.com/watch?v=xlkX6mYQX9g)
+
+## Build Videos by Lockdown Electronics
+
+[![HX108-2 Kit Build Video - By Lockdown Electronics](https://i.ytimg.com/vi/3tRV5sTdPt8/0.jpg)](https://www.youtube.com/watch?v=3tRV5sTdPt8)
+
+## Licenses
+
+* HX108-2 Kit instructions copyrights owned by AliExpress.
+* HX108-2 Kit images copyrights owned by AliExpress and Amazon.
+* HX108-2 Kit Build Videos copyrights owned by shango066, The Radio Mechanic and Lockdown Electronics.
+* All others are licensed CC0.
+
+## References
+
+* [HX108-2 Kit - Buy from AliExpress](https://www.aliexpress.us/item/3256801320386544.html)
+* [HX108-2 Kit Build Video - By shango066](https://www.youtube.com/watch?v=XWtskDrjDgA)
+* [HX108-2 Kit Build Videos - By The Radio Mechanic](https://www.youtube.com/watch?v=xlkX6mYQX9g)
+* [HX108-2 Kit Build Videos - By Lockdown Electronics](https://www.youtube.com/watch?v=3tRV5sTdPt8)
 
 
 
