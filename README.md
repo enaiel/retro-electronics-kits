@@ -1,2 +1,2 @@
 # Retro Electronics Kits
-Retro DIY electronics kits to build an AM Radio, a Walkie Talkie and a CMOS Clock.
+Project to upload documentation for, and to document the process of building retro DIY electronics kits for an AM Radio, a Walkie Talkie and a CMOS Clock.
