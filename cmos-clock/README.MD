@@ -80,10 +80,11 @@
 
 ## Images from Amazon
 
+<img src="./images/amazon/71XZTLF-XML._AC_UX679_.jpg" width=400> <img src="./images/amazon/71Qq3ptpR7L._AC_UX679_.jpg" width=400> <img src="./images/amazon/71YZ9vCxTDL._AC_UX679_.jpg" width=400>   <img src="./images/amazon/71TgncrkRoL._AC_UX679_.jpg" width=400> <img src="./images/amazon/71jO8innuDL._AC_UX679_.jpg" width=400> <img src="./images/amazon/71uIInSL83L._AC_UX679_.jpg" width=400> <img src="./images/amazon/815CLs7cYIL._AC_UX679_.jpg" width=400> <img src="./images/amazon/815CLs7cYIL._AC_UX679_.jpg" width=400> <img src="./images/amazon/71nufo0WUNL._AC_UY741_.jpg" width=400>
+
 ## Build Video by IMSAI Guy
 
 [![CMOS Clock Kit Build Video - By IMSAI Guy](https://i.ytimg.com/vi/HGNogJdHMz8/0.jpg)](https://www.youtube.com/watch?v=HGNogJdHMz8)
-
 
 ## Licenses
 
