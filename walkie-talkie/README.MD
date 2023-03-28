@@ -38,25 +38,11 @@ If installed, the power is no "trace" sound, please carefully check the power co
 
 ## Images from AliExpress
 
-![image](./images/aliexpress/HTB1bdJWHXXXXXaIaXXXq6xXFXXXJ.jpg)
-![image](./images/aliexpress/HTB1Ltp3HXXXXXaeXFXXq6xXFXXXk.jpg)
-![image](./images/aliexpress/HTB1_ONZHXXXXXaKXVXXq6xXFXXX0.jpg)
-![image](./images/aliexpress/HTB13KF2HXXXXXbWXFXXq6xXFXXXI.jpg)
-![image](./images/aliexpress/HTB1H446HXXXXXa5XXXXq6xXFXXXK.jpg)
-![image](./images/aliexpress/HTB1u9h3HXXXXXXhXFXXq6xXFXXXt.jpg)
+<img src="./images/aliexpress/HTB1bdJWHXXXXXaIaXXXq6xXFXXXJ.jpg" width=400> <img src="./images/aliexpress/HTB1Ltp3HXXXXXaeXFXXq6xXFXXXk.jpg" width=400> <img src="./images/aliexpress/HTB1_ONZHXXXXXaKXVXXq6xXFXXX0.jpg" width=400> <img src="./images/aliexpress/HTB13KF2HXXXXXbWXFXXq6xXFXXXI.jpg" width=400> <img src="./images/aliexpress/HTB1H446HXXXXXa5XXXXq6xXFXXXK.jpg" width=400> <img src="./images/aliexpress/HTB1u9h3HXXXXXXhXFXXq6xXFXXXt.jpg" width=400>
 
 ## Images from Bangood
 
-![image](./images/bangood/032dc138-857f-4503-9342-8ea6f6e362af.JPG.webp)
-![image](./images/bangood/140593b2-1ce4-47f2-811a-516e2f2823b1.JPG.webp)
-![image](./images/bangood/1a9fcf08-8c25-410b-8bc4-71c6419440ce.JPG.webp)
-![image](./images/bangood/415a3103-f211-487a-b3f2-1a24aaa5fd54.JPG.webp)
-![image](./images/bangood/759d9b99-fde6-497c-9c1e-bf2d0b859733.JPG.webp)
-![image](./images/bangood/988e8618-0ce9-4b78-addf-cd0cc61f52ac.JPG.webp)
-![image](./images/bangood/a9f3a628-7f82-404c-a4f0-e35ee8d003c2.JPG.webp)
-![image](./images/bangood/dda011c4-8153-4b97-bddb-6b6493ab1011.JPG.webp)
-![image](./images/bangood/eaf9f443-2039-4441-878e-131485f4ae91.JPG.webp)
-![image](./images/bangood/ff108e69-7f06-43e3-b18e-dda55dc20853.JPG.webp)
+<img src="./images/bangood/140593b2-1ce4-47f2-811a-516e2f2823b1.JPG.webp" width=400> <img src="./images/bangood/1a9fcf08-8c25-410b-8bc4-71c6419440ce.JPG.webp" width=400> <img src="./images/bangood/988e8618-0ce9-4b78-addf-cd0cc61f52ac.JPG.webp" width=400> <img src="./images/bangood/a9f3a628-7f82-404c-a4f0-e35ee8d003c2.JPG.webp" width=400> <img src="./images/bangood/032dc138-857f-4503-9342-8ea6f6e362af.JPG.webp" width=400> <img src="./images/bangood/415a3103-f211-487a-b3f2-1a24aaa5fd54.JPG.webp" width=400> <img src="./images/bangood/eaf9f443-2039-4441-878e-131485f4ae91.JPG.webp" width=400> <img src="./images/bangood/dda011c4-8153-4b97-bddb-6b6493ab1011.JPG.webp" width=400> <img src="./images/bangood/759d9b99-fde6-497c-9c1e-bf2d0b859733.JPG.webp" width=400> <img src="./images/bangood/ff108e69-7f06-43e3-b18e-dda55dc20853.JPG.webp" width=400>
 
 ## References
 
