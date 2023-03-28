@@ -54,9 +54,9 @@ If installed, the power is no "trace" sound, please carefully check the power co
 
 ## Licenses
 
-* 986A Kit instructions copyrights is owned by AliExpress.
-* 986A Kit images copyrights are ownded by AliExpress, Bangood and Yoycart.
-* 986A Kit Build Videos copyrights is owned by Julian Ilett.
+* 986A Kit instructions copyrights owned by AliExpress.
+* 986A Kit images copyrights owned by AliExpress, Bangood and Yoycart.
+* 986A Kit Build Videos copyrights owned by Julian Ilett.
 * All others are licensed CC0.
 
 ## References
