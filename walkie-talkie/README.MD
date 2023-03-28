@@ -1,6 +1,6 @@
 
-986A - Walkie Takie Kit
-=======================
+986A - Walkie Talkie Kit
+========================
 
 
 * 986A Kit - Bangood: https://usa.banggood.com/DIY-Electronic-Walkie-talkie-Production-Kit-Starter-Kits-Welding-Experiment-Training-Kit-p-1425012.html
