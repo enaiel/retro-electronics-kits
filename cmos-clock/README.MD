@@ -78,11 +78,23 @@
 
 <img src="./images/aliexpress/Had7a84597e3947098aa97c44a8bd5937F.webp" width=400> <img src="./images/aliexpress/DIY-Electronic-Clock-kit-6-bit-Digital-Circuit-Clock-Production-kit-Skill-Contest-Training-Materials-for.jpg_Q90.jpg_.webp" width=400> <img src="./images/aliexpress/H4f57a9137ffa45e4806a5dc90c28359fC.webp" width=400> <img src="./images/aliexpress/Hbcd9d036537e4d45870812d30f393d411.webp" width=400> <img src="./images/aliexpress/H1fc779d17dac4438bf9e52c8629ca9ea3.webp" width=400> <img src="./images/aliexpress/Had226d7d0b404f74a6a67e4d41903182x.webp" width=400> <img src="./images/aliexpress/Hf42d3dbeb4344d24a95614937a3b3eb1U.webp" width=400>   
 
-
 ## Images from Amazon
+
+## Build Video by IMSAI Guy
+
+[![CMOS Clock Kit Build Video - By IMSAI Guy](https://i.ytimg.com/vi/HGNogJdHMz8/0.jpg)](https://www.youtube.com/watch?v=HGNogJdHMz8)
+
 
 ## Licenses
 
+* CMOS Clock Kit instructions copyrights owned by AliExpress.
+* CMOS Clock Kit images copyrights owned by AliExpress and Amazon.
+* CMOS Clock Kit Build Video copyrights owned by IMSAI Guy.
+* All others are licensed CC0.
+
 ## References
 
+* [CMOS Clock Kit - Buy from AliExpress](https://www.aliexpress.us/item/3256802496546510.html)
+* [CMOS Clock Kit - Buy from Amazon](https://www.amazon.com/Electronic-Digital-Production-Training-Materials/dp/B0838BHP66/)
+* [CMOS Clock Kit Build Video - By IMSAI Guy](https://www.youtube.com/watch?v=HGNogJdHMz8)
 
