@@ -4,15 +4,15 @@
 
 ### Feature
 
-1. Product describe:This circuit uses a quartz crystal oscillator as the time base pulse oscillator, and obtains the second time base signal after digital frequency division. The time is displayed by the counter, decoder and display. Because the crystal oscillator is used as the time base pulse, so the time is accurate.
+1. Product describe: This circuit uses a quartz crystal oscillator as the time base pulse oscillator, and obtains the second time base signal after digital frequency division. The time is displayed by the counter, decoder and display. Because the crystal oscillator is used as the time base pulse, so the time is accurate.
 
-2. circuit:Second, minute, and hour counter circuits use double BCD synchronous up counter CD4518 to count and output BCD code. The BCD code displays the corresponding number through CD4511. The second and minute counters are 60-digit count and 24-hour count.
+2. circuit: Second, minute, and hour counter circuits use double BCD synchronous up counter CD4518 to count and output BCD code. The BCD code displays the corresponding number through CD4511. The second and minute counters are 60-digit count and 24-hour count.
 
-3. PCB:130x70mm double side. input voltage:5V.The circuit does not have a power-off memory time function, and the time needs to be recalibrated after power-off.
+3. PCB: 130x70mm double side. input voltage:5V.The circuit does not have a power-off memory time function, and the time needs to be recalibrated after power-off.
 
-4. Required tools: electric iron: 30W-40W, solder wire: 0.8-1mm, Melting point is about 183 degrees Celsius.tweezers, oblique pliers, multimeter.
+4. Required tools: electric iron: 30W-40W, solder wire: 0.8-1mm, Melting point is about 183 degrees Celsius. tweezers, oblique pliers, multimeter.
 
-5. Suitable for electronic DIY electronic hobby beginners to learn and practice welding.It is widely used in schools to help students learn basic mechanical and electronic skills.
+5. Suitable for electronic DIY electronic hobby beginners to learn and practice welding. It is widely used in schools to help students learn basic mechanical and electronic skills.
 
 ### spscs
 
