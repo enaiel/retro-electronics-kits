@@ -77,6 +77,7 @@ Item color displayed in photos may be showing slightly different on your compute
 * [HX108-2 Kit Build Video - By shango066](https://www.youtube.com/watch?v=XWtskDrjDgA)
 * [HX108-2 Kit Build Videos - By The Radio Mechanic](https://www.youtube.com/watch?v=xlkX6mYQX9g)
 * [HX108-2 Kit Build Videos - By Lockdown Electronics](https://www.youtube.com/watch?v=3tRV5sTdPt8)
+* [HX108-2 Kit Build Log - By tardate](https://leap.tardate.com/radio/am/hx108-2/)
 
 
 
