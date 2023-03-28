@@ -41,4 +41,4 @@ If installed, the power is no "trace" sound, please carefully check the power co
 * [986A Kit - Bangood](https://usa.banggood.com/DIY-Electronic-Walkie-talkie-Production-Kit-Starter-Kits-Welding-Experiment-Training-Kit-p-1425012.html)
 * [986A Kit - AliExpress](https://www.aliexpress.us/item/2251832083509560.html)
 * [986A Kit Assembled - Yoycart](https://www.yoycart.com/Product/38963939598/)
-* ![clip](https://www.youtube.com/playlist?list=PLjzGSu1yGFjVw27NNjBR_pjBV0vUG9Ndu/0.jpg)(https://www.youtube.com/playlist?list=PLjzGSu1yGFjVw27NNjBR_pjBV0vUG9Ndu)
+* [986A Kit Build Video - Julian Ilett](https://www.youtube.com/playlist?list=PLjzGSu1yGFjVw27NNjBR_pjBV0vUG9Ndu)
