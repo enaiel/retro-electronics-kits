@@ -64,11 +64,16 @@ Item color displayed in photos may be showing slightly different on your compute
 
 [![HX108-2 Kit Build Video - By Lockdown Electronics](https://i.ytimg.com/vi/3tRV5sTdPt8/0.jpg)](https://www.youtube.com/watch?v=3tRV5sTdPt8)
 
+## Build Log by tardate
+
+<a href="https://github.com/tardate/LittleArduinoProjects/tree/master/Radio/AM/HX108-2"><img src="https://raw.githubusercontent.com/tardate/LittleArduinoProjects/master/Radio/AM/HX108-2/assets/HX108-2_build.jpg" width=500></a>
+
 ## Licenses
 
 * HX108-2 Kit instructions copyrights owned by AliExpress.
 * HX108-2 Kit images copyrights owned by AliExpress and Amazon.
 * HX108-2 Kit Build Videos copyrights owned by shango066, The Radio Mechanic and Lockdown Electronics.
+* HX108-2 Kit Build Log insstructions and images copyrights owned by tardate.
 * All others are licensed CC0.
 
 ## References
