@@ -1,5 +1,5 @@
 # Retro Electronics Kits
-Project to upload documentation for, and to document the process of building retro DIY electronics kits for an AM Radio, a Walkie Talkie and a CMOS Clock.
+Project to upload documentation for, and to document the process of building retro DIY electronics kits.
 
 ### 1. HX108-2 - DIY Electronics AM Radio Kit
 <a href="./am-radio/"><img src="./am-radio/images/aliexpress/Hcbc3f31aae5049cc911e1ea8c1ad7701e.webp" width=500></a>
